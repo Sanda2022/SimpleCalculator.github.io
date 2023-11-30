@@ -1,1 +1,1 @@
-# Simplecalculator
+# Simplecalculator This project is a simple calculator for multiplication and division of two numbers (positive or negative). The first number to calculate with is typed in the number 1 place holder and and the number to divide or multiply by is typed in the Number2 placeholder 
